@@ -241,6 +241,7 @@ Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; en) Opera 10.62
 Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; fr) Opera 11.00
 Mozilla/4.0 (compatible; MSIE 8.0; X11; Linux x86_64; de) Opera 10.62
 Mozilla/4.0 (compatible; MSIE 8.0; X11; Linux x86_64; pl) Opera 11.00
+Mozilla/4.1 (compatible; MSIE 5.0; Symbian OS; Nokia 6600;452) Opera 6.20 [en-US]
 Mozilla/4.76 (Windows NT 4.0; U) Opera 5.12  [en]
 Mozilla/4.76 (Windows NT 4.0; U) Opera 6.0  [de]
 Mozilla/4.78 (Windows 2000; U) Opera 6.01  [en]
@@ -536,6 +537,7 @@ Opera/8.90 (Windows NT 4.0; en-US) Presto/2.12.190 Version/10.00
 Opera/8.92 (X11; Linux x86_64; sl-SI) Presto/2.8.312 Version/10.00
 Opera/8.93 (X11; Linux i686; en-US) Presto/2.12.347 Version/10.00
 Opera/8.94 (Windows NT 4.0; en-US) Presto/2.10.298 Version/11.00
+Opera/9.0 (Macintosh; PPC Mac OS X; U; en)
 Opera/9.00 (Macintosh; PPC Mac OS X; U; es)
 Opera/9.00 (Nintendo Wii; U; ; 1038-58; Wii Internet Channel/1.0; en)
 Opera/9.00 (Windows NT 5.0; U; en)
@@ -679,6 +681,7 @@ Opera/9.22 (X11; OpenBSD i386; U; en)
 Opera/9.23 (Mac OS X; fr)
 Opera/9.23 (Mac OS X; ru)
 Opera/9.23 (Macintosh; Intel Mac OS X; U; ja)
+Opera/9.23 (Macintosh; Intel Mac OS X; U; ru)
 Opera/9.23 (Nintendo Wii; U; ; 1038-58; Wii Internet Channel/1.0; en)
 Opera/9.23 (Windows NT 5.0; U; de)
 Opera/9.23 (Windows NT 5.0; U; en)
@@ -735,6 +738,7 @@ Opera/9.27 (Windows NT 5.2; U; en)
 Opera/9.27 (X11; Linux i686; U; en)
 Opera/9.27 (X11; Linux i686; U; fr)
 Opera/9.30 (Nintendo Wii; U; ; 2047-7; de)
+Opera/9.30 (Nintendo Wii; U; ; 2047-7; en)
 Opera/9.30 (Nintendo Wii; U; ; 2047-7; fr)
 Opera/9.30 (Nintendo Wii; U; ; 2047-7;en)
 Opera/9.30 (Nintendo Wii; U; ; 2047-7;es)
@@ -790,8 +794,10 @@ Opera/9.52 (X11; Linux ppc; U; de)
 Opera/9.52 (X11; Linux x86_64; U; en)
 Opera/9.52 (X11; Linux x86_64; U; ru)
 Opera/9.52 (X11; Linux x86_64; U)
+Opera/9.53.(Windows NT 6.2; uk-UA) Presto/2.9.186 Version/10.00
 Opera/9.57 (Windows 98; Win 9x 4.90; en-US) Presto/2.12.222 Version/12.00
 Opera/9.57 (X11; Linux i686; sl-SI) Presto/2.9.237 Version/10.00
+Opera/9.60 (J2ME/MIDP; Opera Mini/4.1.11320/608; U; en) Presto/2.2.0
 Opera/9.60 (Windows NT 5.0; U; en) Presto/2.1.1
 Opera/9.60 (Windows NT 5.1; U; en-GB) Presto/2.1.1
 Opera/9.60 (Windows NT 5.1; U; es-ES) Presto/2.1.1
@@ -866,6 +872,7 @@ Opera/9.63 (X11; Linux i686; U; ru) Presto/2.1.1
 Opera/9.63 (X11; Linux i686)
 Opera/9.63 (X11; Linux x86_64; U; cs) Presto/2.1.1
 Opera/9.63 (X11; Linux x86_64; U; ru) Presto/2.1.1
+Opera/9.64 (Macintosh; PPC Mac OS X; U; en) Presto/2.1.1
 Opera/9.64 (Windows NT 6.0; U; pl) Presto/2.1.1
 Opera/9.64 (Windows NT 6.0; U; zh-cn) Presto/2.1.1
 Opera/9.64 (Windows NT 6.1; U; de) Presto/2.1.1
@@ -894,6 +901,7 @@ Opera/9.70 (Linux i686 ; U; en) Presto/2.2.1
 Opera/9.70 (Linux i686 ; U; zh-cn) Presto/2.2.0
 Opera/9.70 (Linux ppc64 ; U; en) Presto/2.2.1
 Opera/9.78 (Windows NT 4.0; en-US) Presto/2.12.190 Version/11.00
+Opera/9.80 (Android; Opera Mini/9.0.1829/66.318; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/20.0.2254/65.213; U; pt) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/20.0.2254/79.10; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (Android; Opera Mini/21.0.2254/63.203; U; id) Presto/2.12.423 Version/12.16
@@ -902,12 +910,16 @@ Opera/9.80 (Android; Opera Mini/31.0.2254/125.38; U; pt) Presto/2.12.423 Version
 Opera/9.80 (Android; Opera Mini/37.5.2254/127.81; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (J2ME/MIDP; Opera Mini/4.1.11320/26.1424; U; ru) Presto/2.8.119 Version/10.54
 Opera/9.80 (J2ME/MIDP; Opera Mini/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/886; U; en) Presto/2.4.15
+Opera/9.80 (J2ME/MIDP; Opera Mini/8.0.35626/37.8918; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (J2ME/MIDP; Opera Mini/8.0.40325/58.167; U; pt) Presto/2.12.423 Version/12.16
+Opera/9.80 (Linux i686; Opera Mobi/1040; U; en) Presto/2.5.24 Version/10.00
 Opera/9.80 (Linux i686; U; en) Presto/2.5.22 Version/10.51
+Opera/9.80 (Macintosh; Intel Mac OS X 10.4.11; U; en) Presto/2.7.62 Version/11.00
 Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; de) Presto/2.9.168 Version/11.52
 Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; en) Presto/2.8.131 Version/11.11
 Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; fr) Presto/2.9.168 Version/11.52
 Opera/9.80 (Macintosh; Intel Mac OS X 10.14.1) Presto/2.12.388 Version/12.16
+Opera/9.80 (Macintosh; Intel Mac OS X; U; en) Presto/2.6.30 Version/10.61
 Opera/9.80 (Macintosh; Intel Mac OS X; U; nl) Presto/2.6.30 Version/10.61
 Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39012/128.50; U; en) Presto/2.12.423 Version/12.16
 Opera/9.80 (MAUI Runtime; Opera Mini/4.4.39014/105.64; U; en) Presto/2.12.423 Version/12.16
@@ -935,6 +947,7 @@ Opera/9.80 (Windows NT 5.1; U; zh-cn) Presto/2.2.15 Version/10.00
 Opera/9.80 (Windows NT 5.1; U; zh-sg) Presto/2.9.181 Version/12.00
 Opera/9.80 (Windows NT 5.1; U; zh-tw) Presto/2.8.131 Version/11.10
 Opera/9.80 (Windows NT 5.1; U;) Presto/2.7.62 Version/11.01
+Opera/9.80 (Windows NT 5.1; WOW64) Presto/2.12.388 Version/12.17
 Opera/9.80 (Windows NT 5.1) Presto/2.12.388 Version/12.16
 Opera/9.80 (Windows NT 5.2; U; en) Presto/2.2.15 Version/10.00
 Opera/9.80 (Windows NT 5.2; U; en) Presto/2.2.15 Version/10.10
@@ -962,6 +975,7 @@ Opera/9.80 (Windows NT 6.0; U; pl) Presto/2.10.229 Version/11.62
 Opera/9.80 (Windows NT 6.0; U; zh-cn) Presto/2.5.22 Version/10.50
 Opera/9.80 (Windows NT 6.0) Presto/2.12.388 Version/12.14
 Opera/9.80 (Windows NT 6.1 x64; U; en) Presto/2.7.62 Version/11.00
+Opera/9.80 (Windows NT 6.1; MRA 5.10 (build 5231)) Presto/2.12.388 Version/12.15
 Opera/9.80 (Windows NT 6.1; Opera Tablet/15165; U; en) Presto/2.8.149 Version/11.1
 Opera/9.80 (Windows NT 6.1; U; cs) Presto/2.2.15 Version/10.00
 Opera/9.80 (Windows NT 6.1; U; cs) Presto/2.7.62 Version/11.01
@@ -990,15 +1004,21 @@ Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.6.37 Version/11.00
 Opera/9.80 (Windows NT 6.1; U; zh-cn) Presto/2.7.62 Version/11.01
 Opera/9.80 (Windows NT 6.1; U; zh-tw) Presto/2.5.22 Version/10.50
 Opera/9.80 (Windows NT 6.1; U; zh-tw) Presto/2.7.62 Version/11.01
+Opera/9.80 (Windows NT 6.1; Win64; x64) Presto/2.12.388 Version/12.17
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 5.7 (build 03796)) Presto/2.12.388 Version/12.14
+Opera/9.80 (Windows NT 6.1; WOW64; MRA 6.0 (build 5680)) Presto/2.12.388 Version/12.11
 Opera/9.80 (Windows NT 6.1; WOW64; MRA 8.2 (build 7100)) Presto/2.12.388 Version/12.17
 Opera/9.80 (Windows NT 6.1; WOW64; U; pt) Presto/2.10.229 Version/11.62
 Opera/9.80 (Windows NT 6.1; WOW64) Presto/2.12.388 Version/12.16
+Opera/9.80 (Windows NT 6.1) Presto/2.12.388 Version/12.14
+Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.16
 Opera/9.80 (Windows NT 6.2; Win64; x64) Presto/2.12.388 Version/12.17
 Opera/9.80 (X11; Linux i686; U; de) Presto/2.2.15 Version/10.00
 Opera/9.80 (X11; Linux i686; U; Debian; pl) Presto/2.2.15 Version/10.00
 Opera/9.80 (X11; Linux i686; U; en-GB) Presto/2.2.15 Version/10.00
 Opera/9.80 (X11; Linux i686; U; en-GB) Presto/2.5.24 Version/10.53
 Opera/9.80 (X11; Linux i686; U; en) Presto/2.2.15 Version/10.00
+Opera/9.80 (X11; Linux i686; U; en) Presto/2.2.15 Version/10.10
 Opera/9.80 (X11; Linux i686; U; en) Presto/2.5.27 Version/10.60
 Opera/9.80 (X11; Linux i686; U; es-ES) Presto/2.6.30 Version/10.61
 Opera/9.80 (X11; Linux i686; U; es-ES) Presto/2.8.131 Version/11.11
@@ -1016,6 +1036,7 @@ Opera/9.80 (X11; Linux i686; U; ru) Presto/2.8.131 Version/11.11
 Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388
 Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16
 Opera/9.80 (X11; Linux i686; Ubuntu/14.10) Presto/2.12.388 Version/12.16.2
+Opera/9.80 (X11; Linux i686) Presto/2.12.388 Version/12.16
 Opera/9.80 (X11; Linux x86_64; U; bg) Presto/2.8.131 Version/11.10
 Opera/9.80 (X11; Linux x86_64; U; de) Presto/2.2.15 Version/10.00
 Opera/9.80 (X11; Linux x86_64; U; en-GB) Presto/2.2.15 Version/10.01
