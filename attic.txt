@@ -1,1 +1,8 @@
 HTC_HD2_T8585 Opera/9.70 (Windows NT 5.1; U; de)
+Netscape/1.14 (iPhone 7.8; en_SG;)
+Netscape/2.17 (Windows NT 4.2; fr;)
+Netscape/8.4 (BackTrack Linux 6.5; ca_ES;)
+Netscape/9.19 (AmigaOS 7.4; cs;)
+Netscape/14.18 (CRUX Linux 5.1; zh_HK;)
+Netscape/14.20 (Redhat Linux 2.2; ar_TN;)
+SAMSUNG-SGH-E250/1.0 Profile/MIDP-2.0 Configuration/CLDC-1.1 UP.Browser/6.2.3.3.c.1.101 (GUI) MMP/2.0 (compatible; Googlebot-Mobile/2.1; +http://www.google.com/bot.html)
